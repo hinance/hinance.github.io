@@ -1,0 +1,55 @@
+Cycle started for 2016_05_08_02_34
+Scraping backend itchyback
+Scraped 50 orders
+Scraping backend awesome
+Scraped 250 orders
+Scraping backend megarags
+Scraped 50 orders
+Scraping backend viogor
+Scraped 50 orders
+Scraping backend windyvault
+Scraped 797 transactions in account 1042
+Scraped 31 transactions in account 2453
+Scraped 345 transactions in account 8394
+Scraping backend awesomecard
+Scraped 107 transactions in account 1875
+Scraping backend viogorcard
+Scraped 30 transactions in account 7260
+Scraping backend crispybills
+Scraped 251 transactions in account 8385
+cat: /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/banks*.hs.part: No such file or directory
+cat: /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/shops*.hs.part: No such file or directory
+[ 1 of 12] Compiling Hinance.User.Tag ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/user_tag.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/user_tag.o )
+[ 2 of 12] Compiling Hinance.Currency ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/currency.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/currency.o )
+[ 3 of 12] Compiling Hinance.Shop.Type ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/shop_type.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/shop_type.o )
+[ 4 of 12] Compiling Hinance.Shop.Data ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/shop_data.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/shop_data.o )
+[ 5 of 12] Compiling Hinance.User.Type ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/user_type.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/user_type.o )
+[ 6 of 12] Compiling Hinance.Bank.Type ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/bank_type.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/bank_type.o )
+[ 7 of 12] Compiling Hinance.User.Data ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/user_data.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/user_data.o )
+[ 8 of 12] Compiling Hinance.Bank.Data ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/bank_data.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/bank_data.o )
+[ 9 of 12] Compiling Hinance.Changes  ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/changes.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/changes.o )
+[10 of 12] Compiling Hinance.Report   ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/report.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/report.o )
+[11 of 12] Compiling Hinance.WebPages ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/webpages.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/webpages.o )
+[12 of 12] Compiling Main             ( /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/main.hs, /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hs/main.o )
+Linking /var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/tmp/hinance-hs ...
+Generating report web pages.
+272K	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+1.5M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+15M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+39M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+62M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+84M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+104M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+118M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+134M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+149M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+166M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+191M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+215M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+242M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+275M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+302M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+324M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+346M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+370M	/var/tmp/hinance-www/examples/max/out/arc/2016_05_08_02_34/out/www
+Cycle finished for 2016_05_08_02_34

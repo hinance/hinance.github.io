@@ -1,0 +1,10 @@
+2016-05-08 02:33:22,348:DEBUG:modules:0:modules.py:162:load_module Loaded module "fakebank" from /hinance-www/weboob/modules/fakebank
+2016-05-08 02:33:22,348:DEBUG:backend:0:modules.py:99:create_instance Created backend "crispybills" for module "fakebank"
+2016-05-08 02:33:22,348:DEBUG:backend:0:modules.py:99:create_instance Created backend "windyvault" for module "fakebank"
+2016-05-08 02:33:22,348:DEBUG:modules:0:modules.py:162:load_module Loaded module "fakeshop" from /hinance-www/weboob/modules/fakeshop
+2016-05-08 02:33:22,348:DEBUG:backend:0:modules.py:99:create_instance Created backend "awesome" for module "fakeshop"
+2016-05-08 02:33:22,348:DEBUG:backend:0:modules.py:99:create_instance Created backend "awesomecard" for module "fakebank"
+2016-05-08 02:33:22,348:DEBUG:backend:0:modules.py:99:create_instance Created backend "viogor" for module "fakeshop"
+2016-05-08 02:33:22,349:DEBUG:backend:0:modules.py:99:create_instance Created backend "viogorcard" for module "fakebank"
+2016-05-08 02:33:22,349:DEBUG:backend:0:modules.py:99:create_instance Created backend "megarags" for module "fakeshop"
+2016-05-08 02:33:22,349:DEBUG:backend:0:modules.py:99:create_instance Created backend "itchyback" for module "fakeshop"
